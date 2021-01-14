@@ -1,0 +1,62 @@
+:root{
+  --primary-color: rgb(247, 40, 75);
+}
+
+.principal {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  align-items: center;
+
+  /* box-sizing: unset; */
+  height: min-content;
+  width: 30%;
+ 
+  margin-top: 50px;
+
+  padding: 60px 40px;
+
+}
+
+.logo {
+  height: calc(80%);
+  width: calc(80%);
+
+  padding-bottom: 40px;
+
+}
+
+.header {
+  color: var(--primary-color);
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.botao {
+  color: rgb(22, 21, 21);
+  background-color: var(--primary-color);
+
+  padding: 7px 18px;
+  margin: 0px 10px;
+  border: none;
+  border-radius: 7px;
+
+}
+
+@media (max-width: 700px) {
+  .card{
+    margin-top: 57%;
+  }
+  .logo {
+    height: calc(100%);
+    width: calc(160%);
+  
+    padding: 30px 0px;
+  
+  }
+}
