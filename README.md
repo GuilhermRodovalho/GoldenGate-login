@@ -15,10 +15,10 @@ Página de login responsiva com back-end e front-end, back-end feito em Javascri
 
 ### Screenshots
 
-![Página inicial com opções de login e sign up](https://github.com/GuilhermRodovalho/GoldenGate-login/blob/main/_imgs/inicial.png)
+![Página inicial com opções de login e sign up](https://github.com/GuilhermRodovalho/GoldenGate-login/blob/master/_imgs/inicial.png)
 
-![Página de login, com campos de username e password, e redirect para página de registro](https://github.com/GuilhermRodovalho/GoldenGate-login/blob/main/_imgs/Screenshot_2.png)
+![Página de login, com campos de username e password, e redirect para página de registro](https://github.com/GuilhermRodovalho/GoldenGate-login/blob/master/_imgs/Screenshot_2.png)
 
-![Página de registro, com campos de nome, email, username e password](https://github.com/GuilhermRodovalho/GoldenGate-login/blob/main/_imgs/cadastro.png)
+![Página de registro, com campos de nome, email, username e password](https://github.com/GuilhermRodovalho/GoldenGate-login/blob/master/_imgs/cadastro.png)
 
-![Página de usuário loggado com opção para fazer sign out](https://github.com/GuilhermRodovalho/GoldenGate-login/blob/main/_imgs/loggado.png)
+![Página de usuário loggado com opção para fazer sign out](https://github.com/GuilhermRodovalho/GoldenGate-login/blob/master/_imgs/loggado.png)
